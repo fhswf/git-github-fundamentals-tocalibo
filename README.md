@@ -97,7 +97,7 @@ To learn more about cloning, read ["Cloning a Repository"](https://docs.github.c
 
 A fork is another way to copy a repository, but is most commonly used when contributing to someone else’s project. Forking a repository allows you to freely experiment with changes without affecting the original project and is very popular when contributing to open source software projects.
 
-To learn more about forking, read ["For a Repo"](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo).
+To learn more about forking, read ["Fork a Repo"](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo).
 
 ## 📝 Optional next steps 
 
